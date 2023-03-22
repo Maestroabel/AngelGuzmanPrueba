@@ -1,0 +1,17 @@
+C:\Users\AngelDaniel\Desktop\PruebaBanreservas\AngelGuzmanPrueba\PruebaCRUD\PruebaCRUD\bin\Debug\PruebaCRUD.exe.config
+C:\Users\AngelDaniel\Desktop\PruebaBanreservas\AngelGuzmanPrueba\PruebaCRUD\PruebaCRUD\bin\Debug\PruebaCRUD.exe
+C:\Users\AngelDaniel\Desktop\PruebaBanreservas\AngelGuzmanPrueba\PruebaCRUD\PruebaCRUD\bin\Debug\PruebaCRUD.pdb
+C:\Users\AngelDaniel\Desktop\PruebaBanreservas\AngelGuzmanPrueba\PruebaCRUD\PruebaCRUD\bin\Debug\EntityFramework.dll
+C:\Users\AngelDaniel\Desktop\PruebaBanreservas\AngelGuzmanPrueba\PruebaCRUD\PruebaCRUD\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\AngelDaniel\Desktop\PruebaBanreservas\AngelGuzmanPrueba\PruebaCRUD\PruebaCRUD\bin\Debug\EntityFramework.xml
+C:\Users\AngelDaniel\Desktop\PruebaBanreservas\AngelGuzmanPrueba\PruebaCRUD\PruebaCRUD\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\AngelDaniel\Desktop\PruebaBanreservas\AngelGuzmanPrueba\PruebaCRUD\PruebaCRUD\obj\Debug\PruebaCRUD.csproj.AssemblyReference.cache
+C:\Users\AngelDaniel\Desktop\PruebaBanreservas\AngelGuzmanPrueba\PruebaCRUD\PruebaCRUD\obj\Debug\PruebaCRUD.csproj.SuggestedBindingRedirects.cache
+C:\Users\AngelDaniel\Desktop\PruebaBanreservas\AngelGuzmanPrueba\PruebaCRUD\PruebaCRUD\obj\Debug\PruebaCRUD.Properties.Resources.resources
+C:\Users\AngelDaniel\Desktop\PruebaBanreservas\AngelGuzmanPrueba\PruebaCRUD\PruebaCRUD\obj\Debug\PruebaCRUD.csproj.GenerateResource.cache
+C:\Users\AngelDaniel\Desktop\PruebaBanreservas\AngelGuzmanPrueba\PruebaCRUD\PruebaCRUD\obj\Debug\PruebaCRUD.csproj.CoreCompileInputs.cache
+C:\Users\AngelDaniel\Desktop\PruebaBanreservas\AngelGuzmanPrueba\PruebaCRUD\PruebaCRUD\obj\Debug\PruebaCRUD.csproj.CopyComplete
+C:\Users\AngelDaniel\Desktop\PruebaBanreservas\AngelGuzmanPrueba\PruebaCRUD\PruebaCRUD\obj\Debug\PruebaCRUD.exe
+C:\Users\AngelDaniel\Desktop\PruebaBanreservas\AngelGuzmanPrueba\PruebaCRUD\PruebaCRUD\obj\Debug\PruebaCRUD.pdb
+C:\Users\AngelDaniel\Desktop\PruebaBanreservas\AngelGuzmanPrueba\PruebaCRUD\PruebaCRUD\obj\Debug\PruebaCRUD.MenuForm.resources
+C:\Users\AngelDaniel\Desktop\PruebaBanreservas\AngelGuzmanPrueba\PruebaCRUD\PruebaCRUD\obj\Debug\PruebaCRUD.LoginForm.resources

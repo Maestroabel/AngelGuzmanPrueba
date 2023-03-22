@@ -2,6 +2,7 @@
 <Schema Namespace="AngelPruebaDBModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
   <EntityContainer Name="AngelPruebaDBEntities" annotation:LazyLoadingEnabled="true">
     <EntitySet Name="Persona" EntityType="AngelPruebaDBModel.Persona" />
+    <EntitySet Name="Usuario" EntityType="AngelPruebaDBModel.Usuario" />
   </EntityContainer>
   <EntityType Name="Persona">
     <Key>
@@ -10,5 +11,13 @@
     <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
     <Property Name="Nombre" Type="String" Nullable="false" MaxLength="30" FixedLength="false" Unicode="false" />
     <Property Name="FechaDeNacimiento" Type="DateTime" Nullable="false" Precision="3" />
+  </EntityType>
+  <EntityType Name="Usuario">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Nombre" Type="String" Nullable="false" MaxLength="30" FixedLength="false" Unicode="false" />
+    <Property Name="Password" Type="String" Nullable="false" MaxLength="44" FixedLength="false" Unicode="false" />
   </EntityType>
 </Schema>

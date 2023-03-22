@@ -6,6 +6,7 @@
     <edmx:Diagrams>
       <Diagram DiagramId="d7958a1511da4da88d99498fddd1eaad" Name="Diagram1">
         <EntityTypeShape EntityType="AngelPruebaDBModel.Persona" Width="1.5" PointX="4.5" PointY="1.5" />
+        <EntityTypeShape EntityType="AngelPruebaDBModel.Usuario" Width="1.5" PointX="6.125" PointY="1.5" />
       </Diagram>
     </edmx:Diagrams>
   </edmx:Designer>

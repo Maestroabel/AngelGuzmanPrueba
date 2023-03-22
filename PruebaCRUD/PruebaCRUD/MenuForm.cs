@@ -246,11 +246,20 @@ namespace PruebaCRUD
                 return;
             }
         }
+        /// <summary>
+        /// Evento clickeable: Encuentra el registro con el nombre que se coloque en el cuadro de texto "txtBuscar".
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
         private void btnBuscar_Click(object sender, EventArgs e)
         {
             ObtenerData(txtBuscar.Text);
         }
-
+        /// <summary>
+        /// Evento clickeable: Selecciona un registro y coloca el proceso de editado.
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
         private void dataGridView_CellClick(object sender, DataGridViewCellEventArgs e)
         {
             if (e.RowIndex == -1) { return; }

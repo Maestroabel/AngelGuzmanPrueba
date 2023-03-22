@@ -1,15 +1,1 @@
-## Prueba Banreservas - Angel Daniel Guzmán Gómez
-
-Este proyecto es un CRUD de escritorio realizada en C#
-
-## Como utilizarlo:
-
-1. Clonar el repositorio o descárgalo:
-git clone https://github.com/Maestroabel/AngelGuzmanPrueba.git
-
-2. Crear en tu máquina la base de datos en SQL Server, con el script "AngelDanielGuzmanGomezPrueba".
-
-3. Cambiar el ConnectionString de la base de datos en el archivo App.config y colocar el connectionString de la base de datos creada.
- 
-4. Correr el proyecto en Visual Studio.
-
+## Prueba Banreservas - Angel Daniel Guzmán GómezEste proyecto es un CRUD de escritorio realizada en C### Como correrlo:+ Clonar el repositorio o descárgalo:> git clone https://github.com/Maestroabel/AngelGuzmanPrueba.git+ Crear en tu máquina la base de datos en SQL Server, con el script "AngelDanielGuzmanGomezPrueba".+ Cambiar el ConnectionString de la base de datos en el archivo App.config y colocar el connectionString de la base de datos creada. + Correr el proyecto en Visual Studio.##Como utilizarlo:1. En el formulario "LoginForm" existe un Admin Dummy. Este se debe descomentar una vez para guardar en la base de datos un registro de usuario. Posteriormente, cuando se haya guardado, se comenta nuevamente.2. Luego de haber realizado el paso 1, se puede correr el programa, colocar el nombre y la contraseña e ingresar al MenuForm. Dentro de este se pueden realizar la creación, visualización, modificación y eliminación de los registros:	- Creación: Para crear un registro, se hace clic en el botón "Nuevo", se ingresa 	el nombre y la fecha de nacimiento y se le da a guardar. 		- Visualización: El dataGripView estará siempre visible en el "MenúForm". Para 	buscar un registro en especifico, basta con escribir el nombre que desee 	encontrar en el cuadro de texto que está al lado del botón "Buscar", y 	posteriormente, hacer clic en el botón mencionado anteriormente.		- Modificación: Para modificar un registro, basta con seleccionar alguno de 	los registros y se colocará en los cuadros de texto la información del registro 	seleccionado. Luego de cambiar los datos, se hace clic en guardar.		- Eliminación: Se selecciona un registro, se le da clic al botón "Eliminar". 	Luego de esto, aparecerá una ventana emergente que te pedirá confirmación. 	Si se selecciona "Si", se eliminará el registro. De lo contrario, el registro 	permanecerá intacto.En el "MenuForm" también se encuentra el botón "Cancelar", que revierte cualquier paso anteriormente mencionado, y coloca los cuadros de texto, el DataGripView y los botones como si se hubiera abierto el formulario por primera vez.

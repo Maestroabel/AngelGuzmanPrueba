@@ -8,7 +8,16 @@
     <Property Name="Nombre" Type="varchar" MaxLength="30" Nullable="false" />
     <Property Name="FechaDeNacimiento" Type="datetime" Nullable="false" />
   </EntityType>
+  <EntityType Name="Usuario">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Nombre" Type="varchar" MaxLength="30" Nullable="false" />
+    <Property Name="Password" Type="varchar" MaxLength="44" Nullable="false" />
+  </EntityType>
   <EntityContainer Name="AngelPruebaDBModelStoreContainer">
     <EntitySet Name="Persona" EntityType="Self.Persona" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Usuario" EntityType="Self.Usuario" Schema="dbo" store:Type="Tables" />
   </EntityContainer>
 </Schema>

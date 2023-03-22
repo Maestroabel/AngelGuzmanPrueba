@@ -26,5 +26,6 @@ namespace PruebaCRUD.Models
         }
     
         public virtual DbSet<Persona> Persona { get; set; }
+        public virtual DbSet<Usuario> Usuario { get; set; }
     }
 }
